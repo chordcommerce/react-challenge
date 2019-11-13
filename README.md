@@ -23,15 +23,13 @@ far you can go and how you think about solving these problems.
 
 You have been tasked with adding the following features:
 
-1. Only show one month of data in the table at a time, with arrow buttons to cycle forward and backwards through the months.
+1. Show only one month of data in the table at a time, with arrow buttons to cycle forward and backwards through the months.
 
-2. Have a way to aggregate the values by week. You can choose any type of UI you think is best.
+2. Aggregate the values by week. You can choose any type of UI you think is best.
 
 3. Create, update, and delete data points. You choose the UI again.
 
-4. Read in the data from a public API instead of the `data.json` file. We will provide you the API.
-
-5. Display the data in a simple line chart, with the library of your choice. We recommend Recharts.
+4. Display the data in a simple line chart, with the library of your choice. We recommend Recharts.
 
 Some things to keep in mind:
 
