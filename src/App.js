@@ -2,11 +2,11 @@ import React from 'react'
 import { Provider } from 'react-redux'
 import DataTable from './containers/DataTable'
 import DataVisualization from './containers/DataVisualization'
-import { getData } from './hooks'
+import { useData } from './hooks'
 import store from './state/store'
 
 const App = () => {
-  const data = getData()
+  const data = useData()
 
   return (
     <Provider store={store}>
