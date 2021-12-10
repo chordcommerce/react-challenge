@@ -1,5 +1,5 @@
 import React from 'react'
-import { Table, HeaderRow, TableRow } from '../components/Table'
+import { Table, HeaderRow, TableRow } from '../styles/Table'
 
 const DataTable = props => (
   <Table>
