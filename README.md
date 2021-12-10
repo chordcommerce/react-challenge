@@ -15,7 +15,7 @@ You will also see any lint errors in the console.
 ## Your Challenge
 
 You are given a simple React app that contains a table of data. We would like
-you to add some sweet new features.
+you to add some new features.
 
 We do not expect you to complete every requirement here, and you will have the
 freedom to implement these requirements however you choose. We want to see how

@@ -18,7 +18,7 @@ export const TableRow = styled.div`
 
 export const HeaderRow = styled(TableRow)`
   div {
-    background-color: #007e7f;
+    background-color: #FF33FF;
     font-weight: bold;
     color: white;
     border: none;
